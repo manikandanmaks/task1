@@ -1,0 +1,9 @@
+D:\Logitech Pvt. Ltd\Logitech Pvt. Ltd\bin\Debug\netcoreapp1.1\LogitechPvt.Ltd.deps.json
+D:\Logitech Pvt. Ltd\Logitech Pvt. Ltd\bin\Debug\netcoreapp1.1\LogitechPvt.Ltd.runtimeconfig.json
+D:\Logitech Pvt. Ltd\Logitech Pvt. Ltd\bin\Debug\netcoreapp1.1\LogitechPvt.Ltd.runtimeconfig.dev.json
+D:\Logitech Pvt. Ltd\Logitech Pvt. Ltd\bin\Debug\netcoreapp1.1\LogitechPvt.Ltd.dll
+D:\Logitech Pvt. Ltd\Logitech Pvt. Ltd\bin\Debug\netcoreapp1.1\LogitechPvt.Ltd.pdb
+D:\Logitech Pvt. Ltd\Logitech Pvt. Ltd\obj\Debug\netcoreapp1.1\LogitechPvt.Ltd.csprojResolveAssemblyReference.cache
+D:\Logitech Pvt. Ltd\Logitech Pvt. Ltd\obj\Debug\netcoreapp1.1\LogitechPvt.Ltd.AssemblyInfo.cs
+D:\Logitech Pvt. Ltd\Logitech Pvt. Ltd\obj\Debug\netcoreapp1.1\LogitechPvt.Ltd.dll
+D:\Logitech Pvt. Ltd\Logitech Pvt. Ltd\obj\Debug\netcoreapp1.1\LogitechPvt.Ltd.pdb
